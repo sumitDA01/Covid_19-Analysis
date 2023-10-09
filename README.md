@@ -16,7 +16,13 @@ Data Sources: The project utilizes a comprehensive dataset encompassing critical
 
 Top 10 Most Affected Countries: The analysis concentrates on the top 10 countries severely impacted by the pandemic, with a particular emphasis on the United States, Brazil, and India, which experienced high COVID-19 case numbers.
 
+<img width="578" alt="tttdwad" src="https://github.com/sumitDA01/Covid_19-Analysis/assets/132813386/845c4341-c542-430f-9530-38951c780036">
+
+
 Mortality Analysis: The project presents insights into total COVID-19-related deaths among these countries, revealing variations in death rates relative to the total case count. Notably, India, Russia, and South Africa display comparatively lower death rates.
+
+<img width="589" alt="totald" src="https://github.com/sumitDA01/Covid_19-Analysis/assets/132813386/b7cdb4d8-987c-4651-9c6f-8eeb14f3b891">
+
 
 Stringency Index: An exploration of the stringency index provides valuable insights into how countries implemented measures such as school and workplace closures and travel bans to control the virus's spread. India's stringency index is highlighted for its effectiveness, while Mexico's is shown as lower in comparison.
 
