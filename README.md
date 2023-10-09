@@ -3,6 +3,9 @@
 
 Project Title: Analyzing the Impact of COVID-19 on Global Economy
 
+![data_graph__virus_Adobe](https://github.com/sumitDA01/Covid_19-Analysis/assets/132813386/b2d6d958-cc33-4bad-915b-e0d38cc98381)
+
+
 **project_description**
 
 The outbreak of COVID-19 brought about unprecedented challenges, causing significant disruptions to the global economy. This data analysis project delves into the profound impacts of COVID-19 on economies worldwide, focusing on the top 10 countries most affected by the pandemic.
